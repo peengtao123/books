@@ -7,7 +7,8 @@ module.exports = {
     sidebar: [
       ['/','首页'],
       '/guide/',
-      '/config/'
+      '/config/',
+      '/default-theme-config/'
     ],
     nav: [
       { text: '首页', link: '/' },
