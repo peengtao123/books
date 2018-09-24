@@ -1,7 +1,7 @@
 module.exports = {
   base:'/',
   title:'学习笔记',
-  description:'日常学习积累',
+  description:'进步在于积累',
   themeConfig: {
     sidebarDepth:1,
     sidebar: [

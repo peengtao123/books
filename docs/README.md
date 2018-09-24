@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: 快速上手
+actionText: 继续进步
 actionLink: /guide/
 ---
 
